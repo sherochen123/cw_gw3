@@ -1,10 +1,10 @@
 ---
 layout: exhibit
 region: Southern China
-nameofmianshi: Cha shao bao
+title: Cha shao bao
 
 image-url: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Handmade_riceroll_in_shatin.jpg/1920px-Handmade_riceroll_in_shatin.jpg
-licence: CC BY SA 3.0
+licence: CC BY-SA 3.0
 licence-url: https://creativecommons.org/licenses/by-sa/3.0/
 
 l1: Barbecued pork buns are filled with the right amount of fat and lean pork.
