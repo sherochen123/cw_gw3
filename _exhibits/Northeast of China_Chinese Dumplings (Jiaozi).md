@@ -12,6 +12,6 @@ l4: Jiaozi has a cultural symbolism, as they are eaten on New Year's Day to say 
 l5: The shape of the Jiaozi resembles a silver dollar, which means wealth. Nowadays, Jiaozi is one of the most important noodle dishes for Chinese people. 
 l6: Source from <a href = "http://www.gov.cn:8080/govweb/fwxx/wy/2011-02/01/content_1797343.htm">Chinese Government Website Page</a>
 l7: Photo by <a href = "https://www.flickr.com/people/56886057@N00">Kuruman</a> at Flickr
-l8: Licence from <a href = "https://creativecommons.org/licenses/by/2.0/">CC-BY-2.0</a>  
+l8: Licence from <a href = "https://creativecommons.org/licenses/by/2.0">CC-BY-2.0</a>  
 
 ---
