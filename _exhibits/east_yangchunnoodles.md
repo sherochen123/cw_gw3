@@ -1,7 +1,7 @@
 ---
 layout: exhibit
 region: Easten China
-nameofmianshi: Yangchun Noodles
+title: Yangchun Noodles
 
 image-url: https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/ChineseNoodles.jpg/1920px-ChineseNoodles.jpg
 licence: CC BY-SA 2.0
