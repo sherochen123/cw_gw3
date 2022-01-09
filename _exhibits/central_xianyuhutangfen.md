@@ -1,7 +1,7 @@
 ---
 layout: exhibit
 region: Central China
-nameofmianshi: Xianyuhu Soup Noodles
+title: Xianyuhu Soup Noodles
 
 image-url: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Hutangfen_with_Fried_Dough.jpg/1024px-Hutangfen_with_Fried_Dough.jpg
 licence: CC BY-SA 4.0
