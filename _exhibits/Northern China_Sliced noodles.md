@@ -4,7 +4,7 @@ region: Northern China
 nameofmianshi: Sliced Noodles (刀削面)
 
 image-url: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Sliced_noodles.jpg/1200px-Sliced_noodles.jpg
-licence: CC-BY-SA-4.0
+licence: CC BY-SA 4.0
 licence-url: https://creativecommons.org/licenses/by-sa/4.0/
 
 l1: Sliced Noodles are a type of noodle dish made by the knife-slicing method.
