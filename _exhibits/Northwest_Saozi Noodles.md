@@ -1,7 +1,7 @@
 ---
 layout: exhibit
 region: Northwest of China
-nameofmianshi: Saozi Noodles (臊子面)
+title: Saozi Noodles (臊子面)
 
 image-url: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/%E5%B2%90%E5%B1%B1%E8%87%8A%E5%AD%90%E9%9D%A2.jpg/640px-%E5%B2%90%E5%B1%B1%E8%87%8A%E5%AD%90%E9%9D%A2.jpg 
 licence: CC BY-SA 4.0
