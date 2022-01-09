@@ -1,7 +1,7 @@
 ---
 layout: exhibit
 region: Northern China
-nameofmianshi: Dalu Noodles (打卤面)
+title: Dalu Noodles (打卤面)
 
 image-url: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Dalumian_at_Changranju_Restaurant%2C_Beijing_%2820211117173259%29.jpg/1200px-Dalumian_at_Changranju_Restaurant%2C_Beijing_%2820211117173259%29.jpg
 licence: CC BY-SA 4.0
