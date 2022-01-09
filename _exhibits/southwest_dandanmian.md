@@ -3,8 +3,8 @@ layout: exhibit
 region: Southwest of China
 title: Dan dan noodle
 
-image-url: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Dan-dan_noodles%2C_Shanghai.jpg/1920px-Dan-dan_noodles%2C_Shanghai.jpg---
-licence: CC BY SA 3.0
+image-url: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Dan-dan_noodles%2C_Shanghai.jpg/1920px-Dan-dan_noodles%2C_Shanghai.jpg
+licence: CC BY-SA 3.0
 licence-url: https://creativecommons.org/licenses/by-sa/3.0/
 
 l1: Dan Dan noodles are a famous snack in Chengdu.
