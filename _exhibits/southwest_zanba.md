@@ -3,7 +3,7 @@ layout: exhibit
 region: Southwest of China
 title: Zanba
 
-image-url: https://upload.wikimedia.org/wikipedia/commons/9/92/Crossing_the_Bridge_Noodle_at_Qian_Xiang_Yuan.jpg
+image-url: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/%E7%B3%8C%E7%B2%912.jpg/440px-%E7%B3%8C%E7%B2%912.jpg
 licence: CC BY SA 2.0
 licence-url: https://creativecommons.org/licenses/by-sa/2.0/
 
