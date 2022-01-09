@@ -12,5 +12,6 @@ l2: The name "Yangchun" was given by the Emperor Qianlong.
 l3: Yangchun means March in Chinese. Emperor Qianlong tasted it and praised in March, and granted the name "Yangchun noodles".
 l4: The core of Yangchun noodles is the soup.
 
-l5: reference http://www.haqbszb.cn/Article/index/aid/4060154.html
+l5: photo by  <a href="https://www.flickr.com/photos/12088230@N00">@Jun</a> at Flickr
+l6: reference http://www.haqbszb.cn/Article/index/aid/4060154.html
 ---
