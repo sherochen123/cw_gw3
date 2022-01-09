@@ -6,7 +6,7 @@
 
       "title"    : "{{ exhibit.title }}",
       "url"      : "{{ site.baseurl }}{{ exhibit.url }}",
-      "tags"     : "{{ exhibit.tags }}",
+      "regions"     : "{{ exhibit.regions }}",
       "licence"  : "{{ exhibit.licence }}",
       "year"     : "{{ exhibit.date | date: "%Y" }}"
 
