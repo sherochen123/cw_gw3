@@ -3,7 +3,7 @@ layout: exhibit
 region: Southern China
 title: Cha shao bao
 
-image-url: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Handmade_riceroll_in_shatin.jpg/1920px-Handmade_riceroll_in_shatin.jpg
+image-url: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Char_siu_bao.jpg/640px-Char_siu_bao.jpg
 licence: CC BY-SA 3.0
 licence-url: https://creativecommons.org/licenses/by-sa/3.0/
 
