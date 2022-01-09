@@ -4,7 +4,7 @@ region: Northern China
 nameofmianshi: Beijing Zhajiang Noodles (炸酱面)
 
 image-url: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Noodles_with_diced_meat_soybean_paste_with_8_toppings_%2820210112174522%29.jpg/640px-Noodles_with_diced_meat_soybean_paste_with_8_toppings_%2820210112174522%29.jpg
-licence: CC-BY-SA-4.0
+licence: CC BY-SA 4.0
 licence-url: https://creativecommons.org/licenses/by-sa/4.0/
 
 l1: Beijing Zhajiang Noodles are famous in Beijing, and is popular among the whole China. 
