@@ -1,7 +1,7 @@
 ---
 layout: exhibit
 region: Central China
-nameofmianshi: Hot Dry Noodles (Regan Mian)
+title: Hot Dry Noodles (Regan Mian)
 
 
 image-url: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Hot_Dry_Noodles.jpg/1280px-Hot_Dry_Noodles.jpg
