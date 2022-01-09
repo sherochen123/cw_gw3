@@ -5,6 +5,7 @@
 title: Gallery index
 layout: index
 ---
+<h1 id = "index-heading">Chinese Mianshi Gallery</h1>
 
 {% for exhibit in site.exhibits %}
 
