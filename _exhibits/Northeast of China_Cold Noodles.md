@@ -1,5 +1,5 @@
 ---
-layout: mianshi
+layout: exhibit
 region: Northeast of China
 nameofmianshi: Yanji Cold Noodles (延吉冷面)
 

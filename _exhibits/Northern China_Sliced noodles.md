@@ -1,5 +1,5 @@
 ---
-layout: mianshi
+layout: exhibit
 region: Northern China
 nameofmianshi: Sliced Noodles (刀削面)
 

@@ -1,5 +1,5 @@
 ---
-layout: Mianshi
+layout: exhibit
 region: Southwest of China
 nameofmianshi: Dan dan noodle
 

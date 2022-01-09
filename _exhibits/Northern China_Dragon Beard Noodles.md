@@ -1,5 +1,5 @@
 ---
-layout: mianshi
+layout: exhibit
 region: Northern China
 nameofmianshi: Dragon Beard Noodles (龙须面)
 

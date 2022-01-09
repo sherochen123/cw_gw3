@@ -1,5 +1,5 @@
 ---
-layout: mianshi
+layout: exhibit
 region: Easten China
 nameofmianshi: Shengjian Bun (Shengjian Bao)
 

@@ -1,5 +1,5 @@
 ---
-layout: mianshi
+layout: exhibit
 region: Northern China
 nameofmianshi: Dalu Noodles (打卤面)
 

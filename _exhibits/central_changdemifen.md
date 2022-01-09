@@ -1,5 +1,5 @@
 ---
-layout: mianshi
+layout: exhibit
 region: Central China
 nameofmianshi: Changde Rice Noodles(Mifen)
 

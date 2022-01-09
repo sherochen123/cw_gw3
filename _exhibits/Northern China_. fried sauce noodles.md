@@ -1,5 +1,5 @@
 ---
-layout: mianshi
+layout: exhibit
 region: Northern China
 nameofmianshi: Beijing Zhajiang Noodles (炸酱面)
 

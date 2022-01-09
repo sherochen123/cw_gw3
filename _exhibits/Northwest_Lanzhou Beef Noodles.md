@@ -1,5 +1,5 @@
 ---
-layout: mianshi
+layout: exhibit
 region: Northwest of China
 nameofmianshi: Lanzhou Beef Noodles (兰州牛肉面)
 

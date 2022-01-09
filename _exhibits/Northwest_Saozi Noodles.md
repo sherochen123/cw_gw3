@@ -1,5 +1,5 @@
 ---
-layout: mianshi
+layout: exhibit
 region: Northwest of China
 nameofmianshi: Saozi Noodles (臊子面)
 

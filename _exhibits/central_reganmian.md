@@ -1,5 +1,5 @@
 ---
-layout: mianshi
+layout: exhibit
 region: Central China
 nameofmianshi: Hot Dry Noodles (Regan Mian)
 

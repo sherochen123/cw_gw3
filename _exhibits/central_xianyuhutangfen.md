@@ -1,5 +1,5 @@
 ---
-layout: mianshi
+layout: exhibit
 region: Central China
 nameofmianshi: Xianyuhu Soup Noodles
 

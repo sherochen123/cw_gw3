@@ -1,5 +1,5 @@
 ---
-layout: Mianshi
+layout: exhibit
 region: Southern China
 nameofmianshi: Rice noodle roll
 

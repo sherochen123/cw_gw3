@@ -1,5 +1,5 @@
 ---
-layout: mianshi
+layout: exhibit
 region: Northwest of China
 nameofmianshi: Oil-poured Noodles (油泼面)
 
