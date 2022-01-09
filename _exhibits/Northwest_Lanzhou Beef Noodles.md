@@ -12,4 +12,6 @@ l2: It is said to have originated in the Tang Dynasty, but the history is too ol
 l3: Lanzhou beef noodles were brought to Lanzhou from Hebei, and developed a unified standard. 
 l4: It was named one of the top three Chinese fast foods by the Chinese Culinary Association, and received the reputation of being the "first Chinese noodle".
 l5: "Source from: https://www.youtube.com/watch?v=t64MreCLhgU"
+l6: Photo by <a href = "https://commons.wikimedia.org/wiki/User:%E4%B8%89%E7%8C%8E">三猎</a>
+l7: Licence from <a href = "https://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA 4.0</a>
 ---
