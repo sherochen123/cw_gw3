@@ -12,5 +12,6 @@ l2: Beijing Zhajiang Noodles are noodles with diced meat soybean paste with 8 to
 l3: There is a story that fried noodles originated in the Han Dynasty and have been around for over 2000 years.
 l4: It is a favourite of Beijingers and is synonymous with Beijing noodles. 
 l5: "Source from: https://www.chinanews.com.cn/cul/2016/03-10/7792060.shtml, https://www.haodou.com/recipe/knowledge/1323"
-l6: Photo by <a href = "https://commons.wikimedia.org/wiki/User:N509FZ">N509FZ</a> at Flickr
+l6: Photo by <a href = "https://commons.wikimedia.org/wiki/User:Jpatokal">Jpatokal</a> at Wikipedia
+l7: Licences from <a href = "https://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA 4.0</a>
 ---
