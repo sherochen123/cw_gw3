@@ -1,7 +1,7 @@
 ---
 layout: exhibit
 region: Northeast of China
-nameofmianshi: Yanji Cold Noodles (延吉冷面)
+title: Yanji Cold Noodles (延吉冷面)
 
 image-url: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Dongbei_lengmian_cold_noodles.jpg/640px-Dongbei_lengmian_cold_noodles.jpg
 licence: CC BY-SA 4.0
