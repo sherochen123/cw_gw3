@@ -11,4 +11,6 @@ l1: Yanji Cold Noodles (연길랭면) is one of the "Top Ten Noodles in China" a
 l2: In the late 19th century, cold noodles were introduced to the north-east of China by the Korean people, and gradually a distinctive Yanji cold noodles was formed. 
 l3: Located in the eastern part of Jilin Province, Yanbian Korean Autonomous Prefecture shares a border with North Korea, where the Korean people make up 42.3% of the total Korean population in China, so the food habits of Yanji are mostly similar to those of North Korea, but also incorporate the tastes of the Han Chinese. 
 l4: "Source from: https://twgreatdaily.com/pxSq5XAB3uTiws8KmUQo.html"
+l5: Photo by <a href = "https://commons.wikimedia.org/wiki/User:Jpatokal">Jpatokal</a> at Wikipedia
+
 ---
