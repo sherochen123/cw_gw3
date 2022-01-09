@@ -9,7 +9,7 @@ licence url: https://creativecommons.org/licenses/by-sa/2.0
 
 l1: Shengjian Bun is a famous snack in Shanghai.
 l2: It is said that Huang Chujiu, an owner of a restaurant "Luochun Ge" in 1920s in Shanghai, hired the cook who was good at making Shengjian Bun from another small snack booth and made it famous. 
-l3: photo by @bionicgrrrl at Flickr
+l3: photo by <a href="https://www.flickr.com/photos/bionicgrrl">@bionicgrrrl</a> at Flickr
 
 l4: reference http://news.sina.com.cn/c/cul/2007-09-23/091712618668s.shtml
 ---
