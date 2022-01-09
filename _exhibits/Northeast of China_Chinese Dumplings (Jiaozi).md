@@ -5,7 +5,6 @@ title: Jiaozi / Chinese Dumplings (饺子)
 
 image-url: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/China_IMG_3150_%2829736643975%29.jpg/1280px-China_IMG_3150_%2829736643975%29.jpg
 
-
 l1: Jizozi is a very important food in the north. During the New Year, almost each family eats Jiaozi.
 l2: Jiaozi originated in the Eastern Han Dynasty, which was first made by the ancient medical st. Zhang Zhongjing. In the beginning of the invention of Jiaozi, they were used for medicinal purposes. 
 l3: Archaeological evidence now shows that dumplings were eaten in the Tang Dynasty.
