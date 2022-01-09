@@ -1,7 +1,7 @@
 ---
 layout: exhibit
 region: Northern China
-nameofmianshi: Dragon Beard Noodles (龙须面)
+title: Dragon Beard Noodles (龙须面)
 
 image-url: https://s2.loli.net/2022/01/09/C9WbAwiNoG2EYFD.jpg
 licence: CC BY-SA 4.0
