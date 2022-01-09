@@ -13,4 +13,6 @@ l3: It has a fresh, sour and spicy flavour.
 l4: It is also relatively simple to make. After the noodles are cooked, put minced garlic, chopped spring onion and chilli on the top of the noodles. 
 l5: Then boiling hot rapeseed oil is poured over the seasoning, followed by the right amount of soy sauce and balsamic vinegar. 
 l6: "Source from: https://14th.xiancn.com/2021-02/24/content_6167528.html"
+l7: Photo by https://commons.wikimedia.org/wiki/User:Liuxingy
+l8: Licence by 
 ---
