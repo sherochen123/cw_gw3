@@ -13,5 +13,6 @@ l3: Yangchun means March in Chinese. Emperor Qianlong tasted it and praised in M
 l4: The core of Yangchun noodles is the soup.
 
 l5: photo by  <a href="https://www.flickr.com/photos/12088230@N00">@Jun</a> at Flickr
-l6: reference http://www.haqbszb.cn/Article/index/aid/4060154.html
+l6: photo licence: <a href="https://creativecommons.org/licenses/by-sa/2.0">CC BY-SA 2.0</a>
+l7: reference http://www.haqbszb.cn/Article/index/aid/4060154.html
 ---
