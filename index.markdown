@@ -6,6 +6,8 @@ title: Gallery index
 layout: index
 ---
 <h1 id = "index-heading">Chinese Mianshi Gallery</h1>
+<h3 id = "index-heading3">An online archive that introduces the characteristics and history of 
+  Mianshi (pasta foods) from 7 regions of China.</h3>
 
 {% for exhibit in site.exhibits %}
 
