@@ -1,7 +1,7 @@
 ---
 layout: exhibit
 region: Northwest of China
-nameofmianshi: Oil-poured Noodles (油泼面)
+title: Oil-poured Noodles (油泼面)
 
 image-url: https://commons.wikimedia.org/wiki/File:%E6%B2%B9%E6%B3%BC%E6%89%AF%E9%9D%A2.jpg 
 licence: CC BY-SA 4.0
