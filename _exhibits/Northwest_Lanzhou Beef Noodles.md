@@ -1,7 +1,7 @@
 ---
 layout: exhibit
 region: Northwest of China
-nameofmianshi: Lanzhou Beef Noodles (兰州牛肉面)
+title: Lanzhou Beef Noodles (兰州牛肉面)
 
 image-url: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/%E5%85%B0%E5%B7%9E%E7%89%9B%E8%82%89%E9%9D%A2.jpg/640px-%E5%85%B0%E5%B7%9E%E7%89%9B%E8%82%89%E9%9D%A2.jpg
 licence: CC BY-SA 4.0
