@@ -2,7 +2,7 @@
 # Feel free to add content and custom Front Matter to this file.
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
-title: Gallery index
+title: Chinese mianshi
 layout: index
 ---
 <h1 id = "index-heading">Chinese Mianshi Gallery</h1>
