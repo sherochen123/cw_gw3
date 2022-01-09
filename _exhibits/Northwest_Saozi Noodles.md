@@ -4,8 +4,6 @@ region: Northwest of China
 title: Saozi Noodles (臊子面)
 
 image-url: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/%E5%B2%90%E5%B1%B1%E8%87%8A%E5%AD%90%E9%9D%A2.jpg/640px-%E5%B2%90%E5%B1%B1%E8%87%8A%E5%AD%90%E9%9D%A2.jpg 
-licence: CC BY-SA 4.0
-licence-url: https://creativecommons.org/licenses/by-sa/4.0/
 
 l1: Saozi Noodles is one of the special traditional noodle dishes of Shaanxi Province, China. 
 l2: It has a 3000 year long history.
