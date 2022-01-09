@@ -1,7 +1,7 @@
 ---
 layout: exhibit
 region: Southern China
-nameofmianshi: Cart noodle
+title: Cart noodle
 
 image-url: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Handmade_riceroll_in_shatin.jpg/1920px-Handmade_riceroll_in_shatin.jpg
 licence: CC BY SA 3.0
