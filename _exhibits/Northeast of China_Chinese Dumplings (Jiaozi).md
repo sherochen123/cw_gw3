@@ -1,10 +1,10 @@
 ---
 layout: mianshi
 region: Northeast of China
-nameofmianshi: Jiaozi / Chinese Dumplings (饺子)
+title: Jiaozi / Chinese Dumplings (饺子)
 
 image-url: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/China_IMG_3150_%2829736643975%29.jpg/1280px-China_IMG_3150_%2829736643975%29.jpg
-licence: CC-BY-2.0
+licence: CC BY 2.0
 licence-url: https://creativecommons.org/licenses/by/2.0/
 
 l1: Jizozi is a very important food in the north. During the New Year, almost each family eats Jiaozi.
