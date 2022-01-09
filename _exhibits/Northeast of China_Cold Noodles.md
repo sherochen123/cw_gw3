@@ -4,7 +4,7 @@ region: Northeast of China
 nameofmianshi: Yanji Cold Noodles (延吉冷面)
 
 image-url: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Dongbei_lengmian_cold_noodles.jpg/640px-Dongbei_lengmian_cold_noodles.jpg
-licence: CC-BY-SA-4.0
+licence: CC BY-SA 4.0
 licence-url: https://creativecommons.org/licenses/by-sa/4.0/
 
 l1: Yanji Cold Noodles (연길랭면) is one of the "Top Ten Noodles in China" and is a traditional Chinese Korean food.
