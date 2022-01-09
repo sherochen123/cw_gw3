@@ -5,7 +5,8 @@ title: Hot Dry Noodles (Regan Mian)
 
 
 image-url: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Hot_Dry_Noodles.jpg/1280px-Hot_Dry_Noodles.jpg
-
+licence: CC BY-SA 4.0
+licence-url: https://creativecommons.org/licenses/by-sa/4.0/
 
 
 l1: Hot Dry Noodles is a traditional course with the history about 80 years from Wuhan.
