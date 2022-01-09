@@ -1,7 +1,7 @@
 ---
 layout: exhibit
 region: Central China
-nameofmianshi: Changde Rice Noodles(Mifen)
+title: Changde Rice Noodles(Mifen)
 
 image-url: https://upload.wikimedia.org/wikipedia/commons/8/8c/Rice_vermicelli_2.jpg
 licence: CC BY-SA 3.0
