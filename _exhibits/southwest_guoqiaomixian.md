@@ -1,7 +1,7 @@
 ---
 layout: exhibit
 region: Southwest of China
-nameofmianshi: Cross bridge rice noodle
+title: Cross bridge rice noodle
 
 image-url: https://upload.wikimedia.org/wikipedia/commons/9/92/Crossing_the_Bridge_Noodle_at_Qian_Xiang_Yuan.jpg
 licence: CC BY SA 2.5
