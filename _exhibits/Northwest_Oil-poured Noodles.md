@@ -3,7 +3,7 @@ layout: exhibit
 region: Northwest of China
 title: Oil-poured Noodles (油泼面)
 
-image-url: https://commons.wikimedia.org/wiki/File:%E6%B2%B9%E6%B3%BC%E6%89%AF%E9%9D%A2.jpg 
+image-url: https://upload.wikimedia.org/wikipedia/commons/4/45/%E6%B2%B9%E6%B3%BC%E6%89%AF%E9%9D%A2.jpg
 licence: CC BY-SA 4.0
 licence-url: https://creativecommons.org/licenses/by-sa/4.0/
 
