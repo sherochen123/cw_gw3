@@ -3,7 +3,7 @@ layout: exhibit
 region: Southern China
 title: Cart noodle
 
-image-url: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Handmade_riceroll_in_shatin.jpg/1920px-Handmade_riceroll_in_shatin.jpg
+image-url: https://upload.wikimedia.org/wikipedia/commons/b/bb/Hong_Kong_Style_Cart_Noodle.JPG
 licence: CC BY SA 3.0
 licence-url: https://creativecommons.org/licenses/by-sa/3.0/
 
