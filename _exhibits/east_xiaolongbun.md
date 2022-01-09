@@ -1,7 +1,7 @@
 ---
 layout: exhibit
 region: Easten China
-nameofmianshi: Xiaolong Bun
+title: Xiaolong Bun
 
 image-url: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Xiaolongbao_Shanghai.jpg/1024px-Xiaolongbao_Shanghai.jpg
 licence: CC BY-SA 4.0
