@@ -1,7 +1,7 @@
 ---
 layout: exhibit
 region: Northern China
-nameofmianshi: Sliced Noodles (刀削面)
+title: Sliced Noodles (刀削面)
 
 image-url: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Sliced_noodles.jpg/1200px-Sliced_noodles.jpg
 licence: CC BY-SA 4.0
