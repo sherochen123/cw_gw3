@@ -1,7 +1,7 @@
 ---
 layout: exhibit
 region: Easten China
-nameofmianshi: Shengjian Bun (Shengjian Bao)
+title: Shengjian Bun (Shengjian Bao)
 
 image-url: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Sheng_Jian_Bao_by_MR%2BG_in_Dalian.jpg/1024px-Sheng_Jian_Bao_by_MR%2BG_in_Dalian.jpg
 licence: CC BY-SA 2.0
