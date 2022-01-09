@@ -1,7 +1,7 @@
 ---
 layout: exhibit
 region: Southwest of China
-nameofmianshi: Dan dan noodle
+title: Dan dan noodle
 
 image-url: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Dan-dan_noodles%2C_Shanghai.jpg/1920px-Dan-dan_noodles%2C_Shanghai.jpg---
 licence: CC BY SA 3.0
