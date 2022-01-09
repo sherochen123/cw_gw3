@@ -4,7 +4,7 @@ region: Northwest of China
 nameofmianshi: Oil-poured Noodles (油泼面)
 
 image-url: https://commons.wikimedia.org/wiki/File:%E6%B2%B9%E6%B3%BC%E6%89%AF%E9%9D%A2.jpg 
-licence: CC-BY-SA-4.0
+licence: CC BY-SA 4.0
 licence-url: https://creativecommons.org/licenses/by-sa/4.0/
 
 l1: Oil-poured noodles are one of the traditional specialties of Shaanxi noodle dishes.
