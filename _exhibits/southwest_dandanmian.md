@@ -13,4 +13,6 @@ l3: The noodles are thin, the gravy is crisp and fragrant, the salty and fresh a
 l4: The most famous Dan Dan noodle is Chen Bao's Dan Dan noodle, which was founded in 1841 by a zigong city vendor named Chen Bao.
 l5: At first it was named after peddling along the street carrying a load.
 l6: "source from:http://www.sc.gov.cn/10462/12771/2018/9/14/10458993.shtml"
+l7: photo by <a href="https://commons.wikimedia.org/wiki/User:Stevenj">@Steven G. Johnson</a> at Flickr
+l8: licence from <a href="https://creativecommons.org/licenses/by-sa/3.0/">CC-BY-SA-3.0</a> 
 ---
