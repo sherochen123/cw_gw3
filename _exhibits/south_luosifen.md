@@ -1,7 +1,7 @@
 ---
 layout: exhibit
 region: Southern China
-nameofmianshi: Snail rice noodle
+title: Snail rice noodle
 
 image-url: https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Luosifen_at_Guangya%2C_Liuzhou_%2820190420141814%29.jpg/1920px-Luosifen_at_Guangya%2C_Liuzhou_%2820190420141814%29.jpg
 licence: CC BY SA 3.0
