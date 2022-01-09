@@ -1,5 +1,5 @@
 ---
-layout: mianshi
+layout: exhibit
 region: Northeast of China
 title: Jiaozi / Chinese Dumplings (饺子)
 
