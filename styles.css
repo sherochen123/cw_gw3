@@ -1,15 +1,17 @@
+
+body {
+    background-color: rgb(203, 224, 143);
+}
 .container {
-    background-color: antiquewhite;
+    background-color: rgb(203, 224, 143);
 }
 .introduction {
-    background-color: rgba(153, 238, 196, 0.849);
+    background-color: rgb(203, 224, 143);
 }
-.gallery_thumb {
-    width: 250px;
-    object-fit: cover;
-}
-
 h1 {
-    color: red;
+    color: rgb(31, 105, 43);
+  }
+h2 {
+    color: rgb(48, 136, 63);
   }
   
