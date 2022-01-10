@@ -1,6 +1,5 @@
 .container {
-    width: 250px;
-    object-fit: cover;
+    background-color: antiquewhite;
 }
 
 .gallery_thumb {
