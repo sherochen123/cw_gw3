@@ -1,7 +1,9 @@
 .container {
     background-color: antiquewhite;
 }
-
+.introduction {
+    background-color: rgba(153, 238, 196, 0.849);
+}
 .gallery_thumb {
     width: 250px;
     object-fit: cover;

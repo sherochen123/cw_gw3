@@ -6,7 +6,6 @@ title: Chinese mianshi
 layout: index
 ---
 
-
 {% for exhibit in site.exhibits %}
 
   {% assign licence_url = site.data.licences | find: "licence", exhibit.licence %}
